@@ -1,0 +1,3 @@
+[submodule ".\\discord-fluent\\"]
+	path = .\\discord-fluent\\
+	url = git@github.com:Venipa/discord-theme-fluent.git
